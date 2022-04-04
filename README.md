@@ -1,4 +1,4 @@
 # QGISBoids
-An implementation of boids in QGIS
+A spatial implementation of Boids
 
 Still very much a work in progress.
